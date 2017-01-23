@@ -45,7 +45,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476365365201-dce7deb37bf2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1481150204877-9188570644b0-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
